@@ -1,0 +1,72 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("../img/anhnen.png");
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    text-align: center;
+    height: 150px;
+}
+.header img{
+    width: 50%;
+    height: 100%;
+}
+.menu{
+    background-color: aquamarine;
+}
+.menu .tb_menu{
+    width: 80%;
+    margin: auto ;
+    color: rgb(136, 43, 117);
+}
+.menu .tb_menu td{
+    text-align: center;
+}
+.main {
+    width: 100%;
+    margin-bottom: 20px;
+    
+}
+.main1{
+    width: 50%;
+    margin:auto;
+}
+.text1{
+    margin-top: 50px;
+    text-align: end;
+    padding-right: 60px ;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    height: 50px;
+    background-image: url(../img/images.jpg);
+    background-size: 50% 100%;
+}
+.logo{
+    text-align: end;
+    margin-top: 50px ;
+}
+.logo img{
+    width: 80%;
+    height: 200px;
+}
+.text2{
+    margin-top: 10px;
+    text-align: left;
+    padding-right: 60px ;
+    font-size: 15px;
+    color: black;
+}
+.footer{
+    text-align: center;
+    font-size: 15px;
+}
+.w{
+    width: 40%;
+    margin: auto;
+    border-color: black;
+}

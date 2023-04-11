@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url("../img/anhnen.png");
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    text-align: center;
+    height: 150px;
+}
+.header img{
+    width: 50%;
+    height: 100%;
+}
+.menu{
+    background-color: aquamarine;
+}
+.menu .tb_menu{
+    width: 80%;
+    margin: auto ;
+    color: rgb(136, 43, 117);
+}
+.menu .tb_menu td{
+    text-align: center;
+}
+
+
+.main .c{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.content{
+    width:50%;
+    min-width: 400px;
+    margin: auto;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    overflow: hidden;
+}
+.top{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+}
+.main1 .table1{
+    width: 90%;
+} 
+.main1 .table1 input{
+width: 100%;
+}
+.main1 .table1 input.c1{
+width: 40%;
+}
+.main1{
+    border-bottom: 1px solid black;
+}
+
+.main2 .btn{
+    display: flex;
+    justify-content: space-around;
+
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.main2 .txt{
+    width: 90%;
+    height: 180px;
+}
+.btn button{
+    width: 80px;;
+}
+
+.x{ 
+    width: 30%;
+    margin: auto;
+    border-color: black;
+}
